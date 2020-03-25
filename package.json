@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-
     "mochawesome": "^5.0.0",
     "mochawesome-merge": "^4.0.3",
     "mochawesome-report-generator": "^4.1.0"

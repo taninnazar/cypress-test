@@ -8,5 +8,7 @@
     },
     "screenshotsFolder": "cypress/artifacts/screenshots",
     "videosFolder": "cypress/artifacts/videos",
-    "integrationFolder": "cypress/e2e"
+    "integrationFolder": "cypress/e2e",
+    "viewportWidth": 1280,
+    "viewportHeight": 800
 }
