@@ -1,0 +1,12 @@
+{
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "reportDir": "cypress/artifacts/reporter",
+        "overwrite": true,
+        "html": true,
+        "json": false
+    },
+    "screenshotsFolder": "cypress/artifacts/screenshots",
+    "videosFolder": "cypress/artifacts/videos",
+    "integrationFolder": "cypress/e2e"
+}

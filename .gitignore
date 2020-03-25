@@ -1,0 +1,13 @@
+# dependencies
+**/node_modules
+**/package-lock.json
+**/workspace.xml
+**/misc.xml
+**/vcs.xml
+**/modules.xml
+**/cypress-test.iml
+**/artifacts
+
+# e2e
+/e2e/*.js
+/e2e/*.map

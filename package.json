@@ -1,0 +1,30 @@
+{
+  "name": "cypress-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+
+    "mochawesome": "^5.0.0",
+    "mochawesome-merge": "^4.0.3",
+    "mochawesome-report-generator": "^4.1.0"
+  },
+  "devDependencies": {
+      "cypress": "^4.2.0",
+      "mocha": "^7.1.1"
+  },
+  "scripts": {
+    "e2e-dashboard": "cypress open",
+    "e2e": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taninnazar/cypress-test.git"
+  },
+  "author": "ntanin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taninnazar/cypress-test/issues"
+  },
+  "homepage": "https://github.com/taninnazar/cypress-test#readme"
+}
