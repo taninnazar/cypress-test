@@ -14,7 +14,7 @@
   },
   "scripts": {
     "e2e-dashboard": "cypress open",
-    "e2e": "cypress run"
+    "e2e": "cypress run -b chrome --headless"
   },
   "repository": {
     "type": "git",
